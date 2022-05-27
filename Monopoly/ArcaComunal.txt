@@ -1,0 +1,15 @@
+frase;dinero;quitarOno
+Paga la factura del medico, paga 50bits;50;1
+Paga una multa de 10bits;10;1
+Has ganado el segundo premio de belleza, recibe 10bits;10;0
+Carta para salir de la carcel, usala sabiamente;0;3
+No se que hiciste pero te vas para la carcel;0;2
+Tus acciones te dan 50bits;50;0
+Cada jugador te tiene que dar 10bits por tu cumpleaños;10;0
+Hacienda te devuelve 20bits;20;0
+Paga al hospital 100bits;100;1
+Error en la banca a tu favor, recibe 200bits;200;0
+Paga tu poliza de seguro, 50bits;50;1
+Cobraras una herencia a 100bits;100;0
+Recibes 25bits por tus acciones;25;0
+Recibe 100bits por los intereses de plazo fijo;100;0

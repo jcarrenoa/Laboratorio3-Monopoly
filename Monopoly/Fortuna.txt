@@ -1,0 +1,9 @@
+frase;dinero;op
+Paga por gastos escolares 150bits;150;1
+No se que hiciste pero te vas para la carcel;0;2
+El banco te paga 50bits de interes;50;0
+Toma 150bits, no preguntes, solo gozalo;150;0
+Has ganado el concurso de crucigramas, cobra 100bits;100;0
+Multa por alcoholico de 20bits;20;1
+Multa por exceso de velocidad de 15bits;15;1
+Carta para salir de la carcel, usala sabiamente;0;3
